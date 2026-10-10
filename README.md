@@ -15,23 +15,23 @@ Recently, I've been building projects in data science, machine learning, and AI.
 
 ## 🚀 Selected Projects
 
-### [AI Knowledge Assistant](https://github.com/sakthi-kr/enterprise-knowledge-agent)
+### [AI Knowledge Assistant](https://github.com/sakthi-kr/ai-knowledge-assistant)
 
 An assistant that searches company documents to answer questions. It shows which documents support its answers and can say when it doesn't have enough information. I also tested how well it finds the relevant documents.
 
-### [Service Analytics Platform](https://github.com/sakthi-kr/industrial-service-data-platform)
+### [Service Analytics Platform](https://github.com/sakthi-kr/service-analytics-platform)
 
 A platform for bringing together equipment, maintenance, and service data to understand day-to-day operations. It uses **107,724 generated records** and includes dashboards for tracking performance. I checked **12 business measures** against separate calculations to make sure the numbers agreed.
 
-### [Image Defect Detection](https://github.com/sakthi-kr/industrial-image-defect-detection)
+### [Image Defect Detection](https://github.com/sakthi-kr/image-defect-detection)
 
 A computer vision project that looks for defects in manufactured products. I tested it on five types of objects and materials. In one bottle-image experiment, it correctly classified **81 of 83 test images**. Finding the exact defective area was harder, and I documented those limitations too.
 
-### [Bearing Fault Detection](https://github.com/sakthi-kr/sensor-predictive-maintenance)
+### [Bearing Fault Detection](https://github.com/sakthi-kr/bearing-fault-detection)
 
 A machine learning project that uses vibration measurements to classify faults in machine bearings. I tested it on separate recordings and motor operating conditions, rather than relying only on a random split of closely related data.
 
-### [ML Validation Toolkit](https://github.com/sakthi-kr/ml-testing-validation-toolkit)
+### [ML Validation Toolkit](https://github.com/sakthi-kr/ml-validation-toolkit)
 
 A small Python toolkit for checking machine learning datasets, predictions, evaluation results, and reports. I use it in the image defect detection and bearing fault detection projects to catch inconsistent outputs.
 
