@@ -10,7 +10,7 @@ Recently, I've been building projects in data science, machine learning, and AI.
 
 - **Programming and scientific computing:** Python, SQL, C++, NumPy, SciPy, pandas
 - **Machine learning:** scikit-learn, PyTorch, computer vision, model evaluation
-- **Data and analytics:** Snowflake, dbt, Power BI
+- **Data and analytics:** Snowflake, dbt, Power BI, DuckDB, Streamlit
 - **AI and software:** RAG, Qdrant, FastAPI, Docker, Git, pytest, GitHub Actions
 
 ## 🚀 Selected Projects
@@ -22,6 +22,12 @@ An assistant that searches company documents to answer questions. It shows which
 ### [Service Analytics Platform](https://github.com/sakthi-kr/service-analytics-platform)
 
 A platform for bringing together equipment, maintenance, and service data to understand day-to-day operations. It uses **107,724 generated records** and includes dashboards for tracking performance. I checked **12 business measures** against separate calculations to make sure the numbers agreed.
+
+### [Clinical Trial Data Quality](https://github.com/sakthi-kr/clinical-trial-data-platform)
+
+A data platform that creates fictional clinical study records and checks them for missing or inconsistent information. It includes a dashboard for reviewing the findings and keeping track of issues.
+
+I tested it by deliberately introducing errors into the generated data. The system found all **22 expected rule-level findings** without reporting extra ones in that controlled test. This checks how well the software follows its rules, not its performance on real clinical data.
 
 ### [Image Defect Detection](https://github.com/sakthi-kr/image-defect-detection)
 
