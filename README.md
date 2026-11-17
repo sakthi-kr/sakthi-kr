@@ -8,7 +8,7 @@ Recently, I've been building projects in data science, machine learning, and AI.
 
 ## 🛠️ What I Work With
 
-- **Programming and scientific computing:** Python, SQL, C++, NumPy, SciPy, pandas
+- **Programming and scientific computing:** Python, SQL, C++, NumPy, SciPy, pandas, RDKit
 - **Machine learning:** scikit-learn, PyTorch, computer vision, model evaluation
 - **Data and analytics:** Snowflake, dbt, Power BI, DuckDB, Streamlit
 - **AI and software:** RAG, Qdrant, FastAPI, Docker, Git, pytest, GitHub Actions
@@ -22,6 +22,10 @@ An assistant that searches company documents to answer questions. It shows which
 ### [Service Analytics Platform](https://github.com/sakthi-kr/service-analytics-platform)
 
 A platform for bringing together equipment, maintenance, and service data to understand day-to-day operations. It uses **107,724 generated records** and includes dashboards for tracking performance. I checked **12 business measures** against separate calculations to make sure the numbers agreed.
+
+### [Molecular Property Prediction](https://github.com/sakthi-kr/molecular-property-prediction)
+
+A machine learning project that predicts molecular lipophilicity from chemical structures. I compared models using a published dataset of **4,200 molecules** and tested them on molecular scaffolds withheld from training. The selected model achieved **0.923 RMSE** on **420 held-out molecules**. I also studied where predictions become less reliable.
 
 ### [Clinical Trial Data Quality](https://github.com/sakthi-kr/clinical-trial-data-platform)
 
